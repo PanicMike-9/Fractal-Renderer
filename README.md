@@ -3,7 +3,6 @@
 A C++ fractal renderer created to explore Mandelbrot, Julia and experimental fractals.
 
 ## Fractals
-***7 Unique Fractals***
 
 - ***Mandebrot types***
     - *Classic*
@@ -21,6 +20,7 @@ A C++ fractal renderer created to explore Mandelbrot, Julia and experimental fra
     - *Silver ratio*
 
 ## Color Palette
+
  ***11 Unique Cosine based Palettes***
 
  - *Sunset*
