@@ -3,7 +3,7 @@
 A C++ fractal renderer created to explore Mandelbrot, Julia and experimental fractals.
 
 ## Fractals
-***7 Unique Fractals**
+***7 Unique Fractals***
 
 - ***Mandebrot types***
     - *Classic*
