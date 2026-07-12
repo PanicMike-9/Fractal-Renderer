@@ -35,4 +35,7 @@ A C++ fractal renderer created to explore Mandelbrot, Julia and experimental fra
  - *Emerald*
  - *Electric Blue*
 
-
+## Compile and Run
+```bash
+g++ main.cpp frames.cpp renderer.cpp -o run && ./run
+```
