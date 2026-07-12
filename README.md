@@ -2,15 +2,17 @@
 
 A C++ fractal renderer created to explore Mandelbrot, Julia and experimental fractals.
 
-## 7 unique types of fractals
-* ***Mandebrot types***
+## Fractals
+***7 Unique Fractals**
+
+- ***Mandebrot types***
     - *Classic*
     - *Raised to power 3*
     - *Tricorn or Mandelbar*
     - *Cosine function*
     - *Sine function*
 
-* ***Julia set types***
+- ***Julia set types***
     - *Classic*
     - *Flower*
     - *Cone*
@@ -19,6 +21,18 @@ A C++ fractal renderer created to explore Mandelbrot, Julia and experimental fra
     - *Silver ratio*
 
 ## Color Palette
-***11 Unique Cosine based Palettes***
+ ***11 Unique Cosine based Palettes***
+
+ - *Sunset*
+ - *Ocean*
+ - *Fire*
+ - *Neon*
+ - *Blue & Green*
+ - *Orange Valley*
+ - *Rainbow*
+ - *Fire & Ice*
+ - *Electric Magenta*
+ - *Emerald*
+ - *Electric Blue*
 
 
