@@ -2,6 +2,10 @@
 
 A C++ fractal renderer created to explore Mandelbrot, Julia and experimental fractals.
 
+# Image output
+
+Images render in a .ppm(Portable Pixmap) file that can be viewed using GIMP or Adobe Photoshop.
+
 ## Fractals
 
 - ***Mandebrot types***
