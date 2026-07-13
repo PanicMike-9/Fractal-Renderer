@@ -5,7 +5,8 @@ A C++ fractal renderer created to explore Mandelbrot, Julia and experimental fra
 ## What is this?
 
 This is a CPU based Fractal Renderer that outputs static images of fractals based on the formula
-$z = z^2 + c$ 
+
+{\displaystyle f_{c}(z)=z^{2}+c}
 
 ## Image output
 
