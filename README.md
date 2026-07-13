@@ -2,11 +2,18 @@
 
 A C++ fractal renderer created to explore Mandelbrot, Julia and experimental fractals.
 
-# Image output
+## What is this?
 
-Images render in a .ppm(Portable Pixmap) file that can be viewed using GIMP or Adobe Photoshop.
+This is a CPU based Fractal Renderer that outputs static images of fractals based on the formula
+$z = z^2 + c$ 
 
-## Fractals
+## Image output
+
+Images are exported in the PPM(Portable Pixmap) format. PPM is a simple image format that can be written directly using C++ standard library without external dependencies.
+
+## Features
+
+### Fractals types
 
 - ***Mandebrot types***
     - *Classic*
@@ -23,7 +30,7 @@ Images render in a .ppm(Portable Pixmap) file that can be viewed using GIMP or A
     - *Snake*
     - *Silver ratio*
 
-## Color Palette
+### Color Palette
 
  ***11 Unique Cosine based Palettes***
 
