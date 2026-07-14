@@ -2,6 +2,8 @@
 
 A C++ fractal renderer created to explore Mandelbrot, Julia and experimental fractals.
 
+![Julia-set 2x zoomed](gallery/5k_julia_2z.png)
+
 ## Overview
 
 This is a CPU-based Fractal Renderer written in C++ that generates static images of fractals using the classic escape-time algorithm.
